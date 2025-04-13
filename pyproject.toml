@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "tronpy"
+name = "pypi-test"
 version = "0.4.0"
 description = "TRON Python client library"
 authors = ["andelf <andelf@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/andelf/tronpy"
-repository = "https://github.com/andelf/tronpy"
+homepage = "https://github.com/lemenkov/pypi-testpypi-test"
+repository = "https://github.com/lemenkov/pypi-testpypi-test"
 keywords = ["tron", "api", "blockchain"]
 classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
