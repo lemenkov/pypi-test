@@ -22,7 +22,7 @@ install_requires = [
 extras_hdwallet = {"mnemonic": ["mnemonic==0.20"]}
 
 setup_kwargs = {
-    "name": "tronpy",
+    "name": "pypi-test",
     "version": version_module.VERSION,
     "description": "TRON Python client library",
     "long_description": open("README.md").read(),
@@ -31,7 +31,7 @@ setup_kwargs = {
     "author_email": "andelf@gmail.com",
     "maintainer": None,
     "maintainer_email": None,
-    "url": "https://github.com/andelf/tronpy",
+    "url": "https://github.com/lemenkov/pypi-test",
     "packages": packages,
     "package_data": package_data,
     "install_requires": install_requires,
